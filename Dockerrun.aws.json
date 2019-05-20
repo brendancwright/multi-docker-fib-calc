@@ -24,6 +24,7 @@
         {
             "name": "nginx",
             "image": "brendanwright/multi-nginx",
+            "hostname": "nginx",
             "essential": true,
             "portMappings": [
                 {
